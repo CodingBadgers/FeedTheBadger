@@ -20,45 +20,40 @@ messages:
   restart: Server is restarting
 settings:
   player-shuffle: 0
-  sample-count: 12
-  bungeecord: false
-  netty-threads: 4
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
+  bungeecord: false
+  sample-count: 12
+  netty-threads: 4
   late-bind: false
 commands:
-  log: true
   tab-complete: true
+  log: true
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
   default:
     verbose: true
-    enable-zombie-pigmen-portal-spawns: true
-    zombie-aggressive-towards-villager: true
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-    nerf-spawner-mobs: false
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    max-bulk-chunks: 5
-    max-entity-collisions: 8
-    arrow-despawn-rate: 1200
-    random-light-updates: false
-    save-structure-info: true
+    item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    chunks-per-tick: 650
+    clear-tick-list: false
+    view-distance: 10
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
+    random-light-updates: false
+    save-structure-info: true
     mob-spawn-range: 4
     anti-xray:
       enabled: true
@@ -80,16 +75,21 @@ world-settings:
       replace-blocks:
       - 1
       - 5
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    merge-radius:
-      item: 2.5
-      exp: 3.0
-    item-despawn-rate: 6000
-    view-distance: 10
-    chunks-per-tick: 650
-    clear-tick-list: false
+    arrow-despawn-rate: 1200
+    nerf-spawner-mobs: false
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+    max-bulk-chunks: 5
+    max-entity-collisions: 8
+    zombie-aggressive-towards-villager: true
+    enable-zombie-pigmen-portal-spawns: true

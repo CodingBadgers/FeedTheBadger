@@ -90,3 +90,5 @@ world-environment-settings:
     keep-world-loaded: true
   the_end:
     keep-world-loaded: false
+  promised:
+    keep-world-loaded: false
