@@ -92,3 +92,5 @@ world-environment-settings:
     keep-world-loaded: false
   promised:
     keep-world-loaded: false
+  wyvernend:
+    keep-world-loaded: true

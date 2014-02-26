@@ -62,3 +62,5 @@ world-settings:
     enabled: true
   promised:
     enabled: true
+  wyvernend:
+    enabled: true
