@@ -1,0 +1,1383 @@
+Loading the generic ruins templates...
+
+Loading the ocean ruins templates...
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template BaloonHigh.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template BaloonHigh.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+ice mapped to net.minecraft.block.BlockIce@7bbeab41
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+ice mapped to net.minecraft.block.BlockIce@7bbeab41
+leaves mapped to net.minecraft.block.BlockOldLeaf@1ffaade5
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+rail mapped to net.minecraft.block.BlockRail@3143f31d
+template BaloonHigh.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template BaloonHigh.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template BaloonLow.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template BaloonLow.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+ice mapped to net.minecraft.block.BlockIce@7bbeab41
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+ice mapped to net.minecraft.block.BlockIce@7bbeab41
+leaves mapped to net.minecraft.block.BlockOldLeaf@1ffaade5
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+rail mapped to net.minecraft.block.BlockRail@3143f31d
+template BaloonLow.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template BaloonLow.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template BaloonVeryLow.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template BaloonVeryLow.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+ice mapped to net.minecraft.block.BlockIce@7bbeab41
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+ice mapped to net.minecraft.block.BlockIce@7bbeab41
+leaves mapped to net.minecraft.block.BlockOldLeaf@1ffaade5
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+rail mapped to net.minecraft.block.BlockRail@3143f31d
+template BaloonVeryLow.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template BaloonVeryLow.tml with weight 4.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template CastleOcean.tml has something special? Checking again later
+tallgrass mapped to net.minecraft.block.BlockTallGrass@64c6295a
+yellow_flower mapped to net.minecraft.block.BlockFlower@4d7c1b64
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+farmland mapped to net.minecraft.block.BlockFarmland@193e6be6
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+netherrack mapped to net.minecraft.block.BlockNetherrack@2bc69070
+double_stone_slab mapped to net.minecraft.block.BlockStoneSlab@1b5ca771
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+chest mapped to net.minecraft.block.BlockChest@67eae247
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+red_flower mapped to net.minecraft.block.BlockFlower@eea69fa
+pumpkin mapped to net.minecraft.block.BlockPumpkin@33b67920
+bookshelf mapped to net.minecraft.block.BlockBookshelf@23251b3e
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+lava mapped to net.minecraft.block.BlockStaticLiquid@7f7b5756
+chest mapped to net.minecraft.block.BlockChest@67eae247
+fire mapped to net.minecraft.block.BlockFire@34322abb
+brown_mushroom mapped to net.minecraft.block.BlockMushroom@54aee8af
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+glowstone mapped to net.minecraft.block.BlockGlowstone@28d7e661
+template CastleOcean.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template CastleOcean.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Floater.tml has something special? Checking again later
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+wooden_slab mapped to net.minecraft.block.BlockWoodSlab@68d4fa15
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+ChestGenHook:strongholdLibrary:5 mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,ChestGenHook:strongholdLibrary:5-2] in template Floater.tml has something special? Checking again later
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+wall_sign mapped to net.minecraft.block.BlockSign@56c562fa
+glass_pane mapped to net.minecraft.block.BlockPane@59c5ed26
+furnace mapped to net.minecraft.block.BlockFurnace@38dd01a5
+end_portal_frame mapped to net.minecraft.block.BlockEndPortalFrame@3f41f024
+end_portal_frame mapped to net.minecraft.block.BlockEndPortalFrame@3f41f024
+end_portal_frame mapped to net.minecraft.block.BlockEndPortalFrame@3f41f024
+end_portal_frame mapped to net.minecraft.block.BlockEndPortalFrame@3f41f024
+end_portal_frame mapped to net.minecraft.block.BlockEndPortalFrame@3f41f024
+glowstone mapped to net.minecraft.block.BlockGlowstone@28d7e661
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+enchanting_table mapped to net.minecraft.block.BlockEnchantmentTable@6518ca7d
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+double_wooden_slab mapped to net.minecraft.block.BlockWoodSlab@fee5806
+wooden_slab mapped to net.minecraft.block.BlockWoodSlab@68d4fa15
+nether_brick mapped to net.minecraft.block.Block@7783a34f
+wooden_slab mapped to net.minecraft.block.BlockWoodSlab@68d4fa15
+bed mapped to net.minecraft.block.BlockBed@1ab37bd
+bed mapped to net.minecraft.block.BlockBed@1ab37bd
+lit_redstone_lamp mapped to net.minecraft.block.BlockRedstoneLight@20345a92
+lever mapped to net.minecraft.block.BlockLever@2294cd2e
+template Floater.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template Floater.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template PirateShip.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template PirateShip.tml has something special? Checking again later
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+MobSpawner:Skeleton mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MobSpawner:Skeleton] in template PirateShip.tml has something special? Checking again later
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+HardMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,HardMobSpawn] in template PirateShip.tml has something special? Checking again later
+flowing_water mapped to net.minecraft.block.BlockDynamicLiquid@3a934cf4
+MobSpawner:Zombie mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MobSpawner:Zombie] in template PirateShip.tml has something special? Checking again later
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+gravel mapped to net.minecraft.block.BlockGravel@4b7d6203
+template PirateShip.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template PirateShip.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template SkyCastle.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template SkyCastle.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+glowstone mapped to net.minecraft.block.BlockGlowstone@28d7e661
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+flowing_water mapped to net.minecraft.block.BlockDynamicLiquid@3a934cf4
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+flowing_lava mapped to net.minecraft.block.BlockDynamicLiquid@4bbf593b
+farmland mapped to net.minecraft.block.BlockFarmland@193e6be6
+sand mapped to net.minecraft.block.BlockSand@a810524
+gravel mapped to net.minecraft.block.BlockGravel@4b7d6203
+gold_ore mapped to net.minecraft.block.BlockOre@314788d8
+MobSpawner:Skeleton mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MobSpawner:Skeleton] in template SkyCastle.tml has something special? Checking again later
+MobSpawner:Zombie mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MobSpawner:Zombie] in template SkyCastle.tml has something special? Checking again later
+diamond_block mapped to net.minecraft.block.BlockCompressed@8c202ae
+iron_block mapped to net.minecraft.block.BlockCompressed@1ae8346
+brick_block mapped to net.minecraft.block.Block@4c389bd0
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+yellow_flower mapped to net.minecraft.block.BlockFlower@4d7c1b64
+red_flower mapped to net.minecraft.block.BlockFlower@eea69fa
+brown_mushroom mapped to net.minecraft.block.BlockMushroom@54aee8af
+red_mushroom mapped to net.minecraft.block.BlockMushroom@272e6498
+yellow_flower mapped to net.minecraft.block.BlockFlower@4d7c1b64
+red_flower mapped to net.minecraft.block.BlockFlower@eea69fa
+brown_mushroom mapped to net.minecraft.block.BlockMushroom@54aee8af
+red_mushroom mapped to net.minecraft.block.BlockMushroom@272e6498
+pumpkin mapped to net.minecraft.block.BlockPumpkin@33b67920
+snow_layer mapped to net.minecraft.block.BlockSnow@738dd1b3
+stone_stairs mapped to net.minecraft.block.BlockStairs@640e0e2f
+stone_stairs mapped to net.minecraft.block.BlockStairs@640e0e2f
+template SkyCastle.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template SkyCastle.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template SunkenShip-v2.tml has something special? Checking again later
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+chest mapped to net.minecraft.block.BlockChest@67eae247
+HardMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-5,HardMobSpawn,HardChest] in template SunkenShip-v2.tml has something special? Checking again later
+HardChest mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-5,HardMobSpawn,HardChest] in template SunkenShip-v2.tml has something special? Checking again later
+chest mapped to net.minecraft.block.BlockChest@67eae247
+HardMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-4,HardMobSpawn,HardChest] in template SunkenShip-v2.tml has something special? Checking again later
+HardChest mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-4,HardMobSpawn,HardChest] in template SunkenShip-v2.tml has something special? Checking again later
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+template SunkenShip-v2.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template SunkenShip-v2.tml with weight 5.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template SunkenShip-v3.tml has something special? Checking again later
+wool mapped to net.minecraft.block.BlockColored@1a1933cc
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+chest mapped to net.minecraft.block.BlockChest@67eae247
+HardMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-5,HardMobSpawn,HardChest] in template SunkenShip-v3.tml has something special? Checking again later
+HardChest mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-5,HardMobSpawn,HardChest] in template SunkenShip-v3.tml has something special? Checking again later
+chest mapped to net.minecraft.block.BlockChest@67eae247
+HardMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-4,HardMobSpawn,HardChest] in template SunkenShip-v3.tml has something special? Checking again later
+HardChest mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,chest-4,HardMobSpawn,HardChest] in template SunkenShip-v3.tml has something special? Checking again later
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+template SunkenShip-v3.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template SunkenShip-v3.tml with weight 5.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Underwater.tml has something special? Checking again later
+sand mapped to net.minecraft.block.BlockSand@a810524
+double_stone_slab mapped to net.minecraft.block.BlockStoneSlab@1b5ca771
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+farmland mapped to net.minecraft.block.BlockFarmland@193e6be6
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+bed mapped to net.minecraft.block.BlockBed@1ab37bd
+bed mapped to net.minecraft.block.BlockBed@1ab37bd
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+ChestGenHook:strongholdLibrary:5 mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,ChestGenHook:strongholdLibrary:5-3] in template Underwater.tml has something special? Checking again later
+ChestGenHook:strongholdLibrary:5 mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,ChestGenHook:strongholdLibrary:5-2] in template Underwater.tml has something special? Checking again later
+crafting_table mapped to net.minecraft.block.BlockWorkbench@51dada88
+furnace mapped to net.minecraft.block.BlockFurnace@38dd01a5
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+wall_sign mapped to net.minecraft.block.BlockSign@56c562fa
+enchanting_table mapped to net.minecraft.block.BlockEnchantmentTable@6518ca7d
+tallgrass mapped to net.minecraft.block.BlockTallGrass@64c6295a
+trapdoor mapped to net.minecraft.block.BlockTrapDoor@1419ce96
+trapdoor mapped to net.minecraft.block.BlockTrapDoor@1419ce96
+wall_sign mapped to net.minecraft.block.BlockSign@56c562fa
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+trapdoor mapped to net.minecraft.block.BlockTrapDoor@1419ce96
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+nether_wart mapped to net.minecraft.block.BlockNetherWart@26271bf2
+furnace mapped to net.minecraft.block.BlockFurnace@38dd01a5
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+red_flower mapped to net.minecraft.block.BlockFlower@eea69fa
+yellow_flower mapped to net.minecraft.block.BlockFlower@4d7c1b64
+glowstone mapped to net.minecraft.block.BlockGlowstone@28d7e661
+sandstone_stairs mapped to net.minecraft.block.BlockStairs@3667e137
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+ChestGenHook:strongholdLibrary:5 mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,ChestGenHook:strongholdLibrary:5-5] in template Underwater.tml has something special? Checking again later
+template Underwater.tmlalso registered for Biome Ocean Oil Field
+Successfully loaded template Underwater.tml with weight 1.
+Loaded Ocean ruins templates, biomeID 0
+
+Loading the plains ruins templates...
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Altar.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+double_stone_slab mapped to net.minecraft.block.BlockStoneSlab@1b5ca771
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+vine mapped to net.minecraft.block.BlockVine@1bd13f0c
+vine mapped to net.minecraft.block.BlockVine@1bd13f0c
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+redstone_torch mapped to net.minecraft.block.BlockRedstoneTorch@4a383427
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+vine mapped to net.minecraft.block.BlockVine@1bd13f0c
+vine mapped to net.minecraft.block.BlockVine@1bd13f0c
+vine mapped to net.minecraft.block.BlockVine@1bd13f0c
+stone_stairs mapped to net.minecraft.block.BlockStairs@640e0e2f
+stone_stairs mapped to net.minecraft.block.BlockStairs@640e0e2f
+stone_stairs mapped to net.minecraft.block.BlockStairs@640e0e2f
+stone_stairs mapped to net.minecraft.block.BlockStairs@640e0e2f
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+mob_spawner mapped to net.minecraft.block.BlockMobSpawner@7ddc8095
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+template Altar.tmlalso registered for Biome Mountain
+template Altar.tmlalso registered for Biome Tundra
+template Altar.tmlalso registered for Biome Thicket
+template Altar.tmlalso registered for Biome Marsh
+template Altar.tmlalso registered for Biome Temperate Rainforest
+template Altar.tmlalso registered for Biome Bog
+template Altar.tmlalso registered for Biome JungleHills
+template Altar.tmlalso registered for Biome Lush Swamp
+template Altar.tmlalso registered for Biome Tropical Rainforest
+template Altar.tmlalso registered for Biome Pasture
+template Altar.tmlalso registered for Biome Mesa
+template Altar.tmlalso registered for Biome Cherry Blossom Grove
+template Altar.tmlalso registered for Biome Deciduous Forest
+template Altar.tmlalso registered for Biome Grove
+template Altar.tmlalso registered for Biome Grassland
+template Altar.tmlalso registered for Biome Timber
+template Altar.tmlalso registered for Biome Coniferous Forest
+template Altar.tmlalso registered for Biome Taiga
+template Altar.tmlalso registered for Biome Wonderous Woods
+template Altar.tmlalso registered for Biome Bamboo Forest
+template Altar.tmlalso registered for Biome Forest
+template Altar.tmlalso registered for Biome TaigaHills
+template Altar.tmlalso registered for Biome Rainforest
+template Altar.tmlalso registered for Biome ForestHills
+template Altar.tmlalso registered for Biome Extreme Hills Edge
+template Altar.tmlalso registered for Biome Jungle
+template Altar.tmlalso registered for Biome Savanna
+template Altar.tmlalso registered for Biome Fen
+template Altar.tmlalso registered for Biome Woodland
+template Altar.tmlalso registered for Biome Shield
+template Altar.tmlalso registered for Biome Brushland
+template Altar.tmlalso registered for Biome Chaparral
+template Altar.tmlalso registered for Biome Mystic Grove
+template Altar.tmlalso registered for Biome Highland
+template Altar.tmlalso registered for Biome Boreal Forest
+template Altar.tmlalso registered for Biome Wetland
+template Altar.tmlalso registered for Biome Spruce Woods
+template Altar.tmlalso registered for Biome Majestic Meadow
+template Altar.tmlalso registered for Biome Savanna Plateau
+template Altar.tmlalso registered for Biome Lavender Fields
+template Altar.tmlalso registered for Biome Extreme Hills
+template Altar.tmlalso registered for Biome Hell
+template Altar.tmlalso registered for Biome Outback
+template Altar.tmlalso registered for Biome Seasonal Forest
+template Altar.tmlalso registered for Biome Heathland
+template Altar.tmlalso registered for Biome Swampland
+template Altar.tmlalso registered for Biome Quagmire
+template Altar.tmlalso registered for Biome Birch Forest
+template Altar.tmlalso registered for Biome Meadow
+template Altar.tmlalso registered for Biome Redwood Forest
+template Altar.tmlalso registered for Biome Jade Cliffs
+template Altar.tmlalso registered for Biome Sacred Springs
+Successfully loaded template Altar.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template AncientFountain.tml has something special? Checking again later
+gravel mapped to net.minecraft.block.BlockGravel@4b7d6203
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,water,cobblestone,mossy_cobblestone,cobblestone,mossy_cobblestone,preserveBlock,preserveBlock] in template AncientFountain.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,water,cobblestone,mossy_cobblestone,cobblestone,mossy_cobblestone,preserveBlock,preserveBlock] in template AncientFountain.tml has something special? Checking again later
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+gravel mapped to net.minecraft.block.BlockGravel@4b7d6203
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+waterlily mapped to net.minecraft.block.BlockLilyPad@35f9263
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+flowing_water mapped to net.minecraft.block.BlockDynamicLiquid@3a934cf4
+template AncientFountain.tmlalso registered for Biome Mountain
+template AncientFountain.tmlalso registered for Biome Tundra
+template AncientFountain.tmlalso registered for Biome Thicket
+template AncientFountain.tmlalso registered for Biome Marsh
+template AncientFountain.tmlalso registered for Biome Temperate Rainforest
+template AncientFountain.tmlalso registered for Biome Bog
+template AncientFountain.tmlalso registered for Biome JungleHills
+template AncientFountain.tmlalso registered for Biome Lush Swamp
+template AncientFountain.tmlalso registered for Biome Tropical Rainforest
+template AncientFountain.tmlalso registered for Biome Pasture
+template AncientFountain.tmlalso registered for Biome Mesa
+template AncientFountain.tmlalso registered for Biome Cherry Blossom Grove
+template AncientFountain.tmlalso registered for Biome Deciduous Forest
+template AncientFountain.tmlalso registered for Biome Grove
+template AncientFountain.tmlalso registered for Biome Grassland
+template AncientFountain.tmlalso registered for Biome Timber
+template AncientFountain.tmlalso registered for Biome Coniferous Forest
+template AncientFountain.tmlalso registered for Biome Taiga
+template AncientFountain.tmlalso registered for Biome Wonderous Woods
+template AncientFountain.tmlalso registered for Biome Bamboo Forest
+template AncientFountain.tmlalso registered for Biome Forest
+template AncientFountain.tmlalso registered for Biome TaigaHills
+template AncientFountain.tmlalso registered for Biome Rainforest
+template AncientFountain.tmlalso registered for Biome ForestHills
+template AncientFountain.tmlalso registered for Biome Extreme Hills Edge
+template AncientFountain.tmlalso registered for Biome Jungle
+template AncientFountain.tmlalso registered for Biome Savanna
+template AncientFountain.tmlalso registered for Biome Fen
+template AncientFountain.tmlalso registered for Biome Woodland
+template AncientFountain.tmlalso registered for Biome Shield
+template AncientFountain.tmlalso registered for Biome Brushland
+template AncientFountain.tmlalso registered for Biome Chaparral
+template AncientFountain.tmlalso registered for Biome Mystic Grove
+template AncientFountain.tmlalso registered for Biome Highland
+template AncientFountain.tmlalso registered for Biome Boreal Forest
+template AncientFountain.tmlalso registered for Biome Wetland
+template AncientFountain.tmlalso registered for Biome Spruce Woods
+template AncientFountain.tmlalso registered for Biome Majestic Meadow
+template AncientFountain.tmlalso registered for Biome Savanna Plateau
+template AncientFountain.tmlalso registered for Biome Lavender Fields
+template AncientFountain.tmlalso registered for Biome Extreme Hills
+template AncientFountain.tmlalso registered for Biome Hell
+template AncientFountain.tmlalso registered for Biome Outback
+template AncientFountain.tmlalso registered for Biome Seasonal Forest
+template AncientFountain.tmlalso registered for Biome Heathland
+template AncientFountain.tmlalso registered for Biome Swampland
+template AncientFountain.tmlalso registered for Biome Quagmire
+template AncientFountain.tmlalso registered for Biome Birch Forest
+template AncientFountain.tmlalso registered for Biome Meadow
+template AncientFountain.tmlalso registered for Biome Redwood Forest
+template AncientFountain.tmlalso registered for Biome Jade Cliffs
+template AncientFountain.tmlalso registered for Biome Sacred Springs
+Successfully loaded template AncientFountain.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Archway.tml has something special? Checking again later
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air,cobblestone,mossy_cobblestone] in template Archway.tml has something special? Checking again later
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+template Archway.tmlalso registered for Biome Mountain
+template Archway.tmlalso registered for Biome Tundra
+template Archway.tmlalso registered for Biome Thicket
+template Archway.tmlalso registered for Biome Marsh
+template Archway.tmlalso registered for Biome Temperate Rainforest
+template Archway.tmlalso registered for Biome Bog
+template Archway.tmlalso registered for Biome JungleHills
+template Archway.tmlalso registered for Biome Lush Swamp
+template Archway.tmlalso registered for Biome Tropical Rainforest
+template Archway.tmlalso registered for Biome Pasture
+template Archway.tmlalso registered for Biome Mesa
+template Archway.tmlalso registered for Biome Cherry Blossom Grove
+template Archway.tmlalso registered for Biome Deciduous Forest
+template Archway.tmlalso registered for Biome Grove
+template Archway.tmlalso registered for Biome Grassland
+template Archway.tmlalso registered for Biome Timber
+template Archway.tmlalso registered for Biome Coniferous Forest
+template Archway.tmlalso registered for Biome Taiga
+template Archway.tmlalso registered for Biome Wonderous Woods
+template Archway.tmlalso registered for Biome Bamboo Forest
+template Archway.tmlalso registered for Biome Forest
+template Archway.tmlalso registered for Biome TaigaHills
+template Archway.tmlalso registered for Biome Rainforest
+template Archway.tmlalso registered for Biome ForestHills
+template Archway.tmlalso registered for Biome Extreme Hills Edge
+template Archway.tmlalso registered for Biome Jungle
+template Archway.tmlalso registered for Biome Savanna
+template Archway.tmlalso registered for Biome Fen
+template Archway.tmlalso registered for Biome Woodland
+template Archway.tmlalso registered for Biome Shield
+template Archway.tmlalso registered for Biome Brushland
+template Archway.tmlalso registered for Biome Chaparral
+template Archway.tmlalso registered for Biome Mystic Grove
+template Archway.tmlalso registered for Biome Highland
+template Archway.tmlalso registered for Biome Boreal Forest
+template Archway.tmlalso registered for Biome Wetland
+template Archway.tmlalso registered for Biome Spruce Woods
+template Archway.tmlalso registered for Biome Majestic Meadow
+template Archway.tmlalso registered for Biome Savanna Plateau
+template Archway.tmlalso registered for Biome Lavender Fields
+template Archway.tmlalso registered for Biome Extreme Hills
+template Archway.tmlalso registered for Biome Hell
+template Archway.tmlalso registered for Biome Outback
+template Archway.tmlalso registered for Biome Seasonal Forest
+template Archway.tmlalso registered for Biome Heathland
+template Archway.tmlalso registered for Biome Swampland
+template Archway.tmlalso registered for Biome Quagmire
+template Archway.tmlalso registered for Biome Birch Forest
+template Archway.tmlalso registered for Biome Meadow
+template Archway.tmlalso registered for Biome Redwood Forest
+template Archway.tmlalso registered for Biome Jade Cliffs
+template Archway.tmlalso registered for Biome Sacred Springs
+Successfully loaded template Archway.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Barn-intact.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template Barn-intact.tml has something special? Checking again later
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Barn-intact.tml has something special? Checking again later
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+glass_pane mapped to net.minecraft.block.BlockPane@59c5ed26
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+iron_bars mapped to net.minecraft.block.BlockPane@6d6849cf
+template Barn-intact.tmlalso registered for Biome Mountain
+template Barn-intact.tmlalso registered for Biome Tundra
+template Barn-intact.tmlalso registered for Biome Thicket
+template Barn-intact.tmlalso registered for Biome Marsh
+template Barn-intact.tmlalso registered for Biome Temperate Rainforest
+template Barn-intact.tmlalso registered for Biome Bog
+template Barn-intact.tmlalso registered for Biome JungleHills
+template Barn-intact.tmlalso registered for Biome Lush Swamp
+template Barn-intact.tmlalso registered for Biome Tropical Rainforest
+template Barn-intact.tmlalso registered for Biome Pasture
+template Barn-intact.tmlalso registered for Biome Mesa
+template Barn-intact.tmlalso registered for Biome Cherry Blossom Grove
+template Barn-intact.tmlalso registered for Biome Deciduous Forest
+template Barn-intact.tmlalso registered for Biome Grove
+template Barn-intact.tmlalso registered for Biome Grassland
+template Barn-intact.tmlalso registered for Biome Timber
+template Barn-intact.tmlalso registered for Biome Coniferous Forest
+template Barn-intact.tmlalso registered for Biome Taiga
+template Barn-intact.tmlalso registered for Biome Wonderous Woods
+template Barn-intact.tmlalso registered for Biome Bamboo Forest
+template Barn-intact.tmlalso registered for Biome Forest
+template Barn-intact.tmlalso registered for Biome TaigaHills
+template Barn-intact.tmlalso registered for Biome Rainforest
+template Barn-intact.tmlalso registered for Biome ForestHills
+template Barn-intact.tmlalso registered for Biome Extreme Hills Edge
+template Barn-intact.tmlalso registered for Biome Jungle
+template Barn-intact.tmlalso registered for Biome Savanna
+template Barn-intact.tmlalso registered for Biome Fen
+template Barn-intact.tmlalso registered for Biome Woodland
+template Barn-intact.tmlalso registered for Biome Shield
+template Barn-intact.tmlalso registered for Biome Brushland
+template Barn-intact.tmlalso registered for Biome Chaparral
+template Barn-intact.tmlalso registered for Biome Mystic Grove
+template Barn-intact.tmlalso registered for Biome Highland
+template Barn-intact.tmlalso registered for Biome Boreal Forest
+template Barn-intact.tmlalso registered for Biome Wetland
+template Barn-intact.tmlalso registered for Biome Spruce Woods
+template Barn-intact.tmlalso registered for Biome Majestic Meadow
+template Barn-intact.tmlalso registered for Biome Savanna Plateau
+template Barn-intact.tmlalso registered for Biome Lavender Fields
+template Barn-intact.tmlalso registered for Biome Extreme Hills
+template Barn-intact.tmlalso registered for Biome Hell
+template Barn-intact.tmlalso registered for Biome Outback
+template Barn-intact.tmlalso registered for Biome Seasonal Forest
+template Barn-intact.tmlalso registered for Biome Heathland
+template Barn-intact.tmlalso registered for Biome Swampland
+template Barn-intact.tmlalso registered for Biome Quagmire
+template Barn-intact.tmlalso registered for Biome Birch Forest
+template Barn-intact.tmlalso registered for Biome Meadow
+template Barn-intact.tmlalso registered for Biome Redwood Forest
+template Barn-intact.tmlalso registered for Biome Jade Cliffs
+template Barn-intact.tmlalso registered for Biome Sacred Springs
+Successfully loaded template Barn-intact.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Barn-ruined.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template Barn-ruined.tml has something special? Checking again later
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Barn-ruined.tml has something special? Checking again later
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+glass_pane mapped to net.minecraft.block.BlockPane@59c5ed26
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+wooden_door mapped to net.minecraft.block.BlockDoor@6e2e09c2
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+iron_bars mapped to net.minecraft.block.BlockPane@6d6849cf
+template Barn-ruined.tmlalso registered for Biome Mountain
+template Barn-ruined.tmlalso registered for Biome Tundra
+template Barn-ruined.tmlalso registered for Biome Lush Swamp
+template Barn-ruined.tmlalso registered for Biome Tropical Rainforest
+template Barn-ruined.tmlalso registered for Biome Cherry Blossom Grove
+template Barn-ruined.tmlalso registered for Biome Grove
+template Barn-ruined.tmlalso registered for Biome Timber
+template Barn-ruined.tmlalso registered for Biome Coniferous Forest
+template Barn-ruined.tmlalso registered for Biome Wonderous Woods
+template Barn-ruined.tmlalso registered for Biome Canyon
+template Barn-ruined.tmlalso registered for Biome Bamboo Forest
+template Barn-ruined.tmlalso registered for Biome Extreme Hills Edge
+template Barn-ruined.tmlalso registered for Biome Jungle
+template Barn-ruined.tmlalso registered for Biome Fen
+template Barn-ruined.tmlalso registered for Biome Woodland
+template Barn-ruined.tmlalso registered for Biome Dead Forest
+template Barn-ruined.tmlalso registered for Biome Shield
+template Barn-ruined.tmlalso registered for Biome Brushland
+template Barn-ruined.tmlalso registered for Biome Chaparral
+template Barn-ruined.tmlalso registered for Biome Dead Swamp
+template Barn-ruined.tmlalso registered for Biome Mystic Grove
+template Barn-ruined.tmlalso registered for Biome Highland
+template Barn-ruined.tmlalso registered for Biome Volcano
+template Barn-ruined.tmlalso registered for Biome Savanna Plateau
+template Barn-ruined.tmlalso registered for Biome Lavender Fields
+template Barn-ruined.tmlalso registered for Biome Hell
+template Barn-ruined.tmlalso registered for Biome Outback
+template Barn-ruined.tmlalso registered for Biome Seasonal Forest
+template Barn-ruined.tmlalso registered for Biome Heathland
+template Barn-ruined.tmlalso registered for Biome Thicket
+template Barn-ruined.tmlalso registered for Biome Marsh
+template Barn-ruined.tmlalso registered for Biome Temperate Rainforest
+template Barn-ruined.tmlalso registered for Biome Bog
+template Barn-ruined.tmlalso registered for Biome JungleHills
+template Barn-ruined.tmlalso registered for Biome Pasture
+template Barn-ruined.tmlalso registered for Biome Mesa
+template Barn-ruined.tmlalso registered for Biome Deciduous Forest
+template Barn-ruined.tmlalso registered for Biome Grassland
+template Barn-ruined.tmlalso registered for Biome Taiga
+template Barn-ruined.tmlalso registered for Biome Forest
+template Barn-ruined.tmlalso registered for Biome Rainforest
+template Barn-ruined.tmlalso registered for Biome TaigaHills
+template Barn-ruined.tmlalso registered for Biome ForestHills
+template Barn-ruined.tmlalso registered for Biome Savanna
+template Barn-ruined.tmlalso registered for Biome Boreal Forest
+template Barn-ruined.tmlalso registered for Biome Wetland
+template Barn-ruined.tmlalso registered for Biome Spruce Woods
+template Barn-ruined.tmlalso registered for Biome Majestic Meadow
+template Barn-ruined.tmlalso registered for Biome Extreme Hills
+template Barn-ruined.tmlalso registered for Biome Crag
+template Barn-ruined.tmlalso registered for Biome Ominous Woods
+template Barn-ruined.tmlalso registered for Biome Swampland
+template Barn-ruined.tmlalso registered for Biome Quagmire
+template Barn-ruined.tmlalso registered for Biome Birch Forest
+template Barn-ruined.tmlalso registered for Biome Meadow
+template Barn-ruined.tmlalso registered for Biome Redwood Forest
+template Barn-ruined.tmlalso registered for Biome Jade Cliffs
+template Barn-ruined.tmlalso registered for Biome Sacred Springs
+Successfully loaded template Barn-ruined.tml with weight 2.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Barrow.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+MediumMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MediumMobSpawn,MediumMobSpawn,MediumMobSpawn,dirt] in template Barrow.tml has something special? Checking again later
+MediumMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MediumMobSpawn,MediumMobSpawn,MediumMobSpawn,dirt] in template Barrow.tml has something special? Checking again later
+MediumMobSpawn mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MediumMobSpawn,MediumMobSpawn,MediumMobSpawn,dirt] in template Barrow.tml has something special? Checking again later
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+MediumChest mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MediumChest,MediumChest,dirt,dirt] in template Barrow.tml has something special? Checking again later
+MediumChest mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,MediumChest,MediumChest,dirt,dirt] in template Barrow.tml has something special? Checking again later
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+log mapped to net.minecraft.block.BlockOldLog@500bbbf9
+template Barrow.tmlalso registered for Biome Mountain
+template Barrow.tmlalso registered for Biome Tundra
+template Barrow.tmlalso registered for Biome Thicket
+template Barrow.tmlalso registered for Biome Marsh
+template Barrow.tmlalso registered for Biome Temperate Rainforest
+template Barrow.tmlalso registered for Biome Bog
+template Barrow.tmlalso registered for Biome JungleHills
+template Barrow.tmlalso registered for Biome Lush Swamp
+template Barrow.tmlalso registered for Biome Tropical Rainforest
+template Barrow.tmlalso registered for Biome Pasture
+template Barrow.tmlalso registered for Biome Mesa
+template Barrow.tmlalso registered for Biome Cherry Blossom Grove
+template Barrow.tmlalso registered for Biome Deciduous Forest
+template Barrow.tmlalso registered for Biome Grove
+template Barrow.tmlalso registered for Biome Grassland
+template Barrow.tmlalso registered for Biome Timber
+template Barrow.tmlalso registered for Biome Coniferous Forest
+template Barrow.tmlalso registered for Biome Taiga
+template Barrow.tmlalso registered for Biome Wonderous Woods
+template Barrow.tmlalso registered for Biome Bamboo Forest
+template Barrow.tmlalso registered for Biome Forest
+template Barrow.tmlalso registered for Biome TaigaHills
+template Barrow.tmlalso registered for Biome Rainforest
+template Barrow.tmlalso registered for Biome ForestHills
+template Barrow.tmlalso registered for Biome Extreme Hills Edge
+template Barrow.tmlalso registered for Biome Jungle
+template Barrow.tmlalso registered for Biome Savanna
+template Barrow.tmlalso registered for Biome Fen
+template Barrow.tmlalso registered for Biome Woodland
+template Barrow.tmlalso registered for Biome Shield
+template Barrow.tmlalso registered for Biome Brushland
+template Barrow.tmlalso registered for Biome Chaparral
+template Barrow.tmlalso registered for Biome Mystic Grove
+template Barrow.tmlalso registered for Biome Highland
+template Barrow.tmlalso registered for Biome Boreal Forest
+template Barrow.tmlalso registered for Biome Wetland
+template Barrow.tmlalso registered for Biome Spruce Woods
+template Barrow.tmlalso registered for Biome Majestic Meadow
+template Barrow.tmlalso registered for Biome Savanna Plateau
+template Barrow.tmlalso registered for Biome Lavender Fields
+template Barrow.tmlalso registered for Biome Extreme Hills
+template Barrow.tmlalso registered for Biome Hell
+template Barrow.tmlalso registered for Biome Outback
+template Barrow.tmlalso registered for Biome Seasonal Forest
+template Barrow.tmlalso registered for Biome Heathland
+template Barrow.tmlalso registered for Biome Swampland
+template Barrow.tmlalso registered for Biome Quagmire
+template Barrow.tmlalso registered for Biome Birch Forest
+template Barrow.tmlalso registered for Biome Meadow
+template Barrow.tmlalso registered for Biome Redwood Forest
+template Barrow.tmlalso registered for Biome Jade Cliffs
+template Barrow.tmlalso registered for Biome Sacred Springs
+Successfully loaded template Barrow.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Beacon.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template Beacon.tml has something special? Checking again later
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+flowing_water mapped to net.minecraft.block.BlockDynamicLiquid@3a934cf4
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+gravel mapped to net.minecraft.block.BlockGravel@4b7d6203
+glowstone mapped to net.minecraft.block.BlockGlowstone@28d7e661
+template Beacon.tmlalso registered for Biome Mountain
+template Beacon.tmlalso registered for Biome Tundra
+template Beacon.tmlalso registered for Biome Thicket
+template Beacon.tmlalso registered for Biome Marsh
+template Beacon.tmlalso registered for Biome Temperate Rainforest
+template Beacon.tmlalso registered for Biome Bog
+template Beacon.tmlalso registered for Biome JungleHills
+template Beacon.tmlalso registered for Biome Lush Swamp
+template Beacon.tmlalso registered for Biome Tropical Rainforest
+template Beacon.tmlalso registered for Biome Pasture
+template Beacon.tmlalso registered for Biome Mesa
+template Beacon.tmlalso registered for Biome Cherry Blossom Grove
+template Beacon.tmlalso registered for Biome Deciduous Forest
+template Beacon.tmlalso registered for Biome Grove
+template Beacon.tmlalso registered for Biome Grassland
+template Beacon.tmlalso registered for Biome Timber
+template Beacon.tmlalso registered for Biome Coniferous Forest
+template Beacon.tmlalso registered for Biome Taiga
+template Beacon.tmlalso registered for Biome Wonderous Woods
+template Beacon.tmlalso registered for Biome Bamboo Forest
+template Beacon.tmlalso registered for Biome Forest
+template Beacon.tmlalso registered for Biome TaigaHills
+template Beacon.tmlalso registered for Biome Rainforest
+template Beacon.tmlalso registered for Biome ForestHills
+template Beacon.tmlalso registered for Biome Extreme Hills Edge
+template Beacon.tmlalso registered for Biome Jungle
+template Beacon.tmlalso registered for Biome Savanna
+template Beacon.tmlalso registered for Biome Fen
+template Beacon.tmlalso registered for Biome Woodland
+template Beacon.tmlalso registered for Biome Shield
+template Beacon.tmlalso registered for Biome Brushland
+template Beacon.tmlalso registered for Biome Chaparral
+template Beacon.tmlalso registered for Biome Mystic Grove
+template Beacon.tmlalso registered for Biome Highland
+template Beacon.tmlalso registered for Biome Boreal Forest
+template Beacon.tmlalso registered for Biome Wetland
+template Beacon.tmlalso registered for Biome Spruce Woods
+template Beacon.tmlalso registered for Biome Majestic Meadow
+template Beacon.tmlalso registered for Biome Savanna Plateau
+template Beacon.tmlalso registered for Biome Lavender Fields
+template Beacon.tmlalso registered for Biome Extreme Hills
+template Beacon.tmlalso registered for Biome Hell
+template Beacon.tmlalso registered for Biome Outback
+template Beacon.tmlalso registered for Biome Seasonal Forest
+template Beacon.tmlalso registered for Biome Heathland
+template Beacon.tmlalso registered for Biome Swampland
+template Beacon.tmlalso registered for Biome Quagmire
+template Beacon.tmlalso registered for Biome Birch Forest
+template Beacon.tmlalso registered for Biome Meadow
+template Beacon.tmlalso registered for Biome Redwood Forest
+template Beacon.tmlalso registered for Biome Jade Cliffs
+template Beacon.tmlalso registered for Biome Sacred Springs
+Successfully loaded template Beacon.tml with weight 3.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template BlockHenge.tml has something special? Checking again later
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template BlockHenge.tml has something special? Checking again later
+template BlockHenge.tmlalso registered for Biome Mountain
+template BlockHenge.tmlalso registered for Biome Tundra
+template BlockHenge.tmlalso registered for Biome Thicket
+template BlockHenge.tmlalso registered for Biome Marsh
+template BlockHenge.tmlalso registered for Biome Temperate Rainforest
+template BlockHenge.tmlalso registered for Biome Bog
+template BlockHenge.tmlalso registered for Biome JungleHills
+template BlockHenge.tmlalso registered for Biome Lush Swamp
+template BlockHenge.tmlalso registered for Biome Tropical Rainforest
+template BlockHenge.tmlalso registered for Biome Pasture
+template BlockHenge.tmlalso registered for Biome Mesa
+template BlockHenge.tmlalso registered for Biome Cherry Blossom Grove
+template BlockHenge.tmlalso registered for Biome Deciduous Forest
+template BlockHenge.tmlalso registered for Biome Grove
+template BlockHenge.tmlalso registered for Biome Grassland
+template BlockHenge.tmlalso registered for Biome Timber
+template BlockHenge.tmlalso registered for Biome Coniferous Forest
+template BlockHenge.tmlalso registered for Biome Taiga
+template BlockHenge.tmlalso registered for Biome Wonderous Woods
+template BlockHenge.tmlalso registered for Biome Bamboo Forest
+template BlockHenge.tmlalso registered for Biome Forest
+template BlockHenge.tmlalso registered for Biome TaigaHills
+template BlockHenge.tmlalso registered for Biome Rainforest
+template BlockHenge.tmlalso registered for Biome ForestHills
+template BlockHenge.tmlalso registered for Biome Extreme Hills Edge
+template BlockHenge.tmlalso registered for Biome Jungle
+template BlockHenge.tmlalso registered for Biome Savanna
+template BlockHenge.tmlalso registered for Biome Fen
+template BlockHenge.tmlalso registered for Biome Woodland
+template BlockHenge.tmlalso registered for Biome Shield
+template BlockHenge.tmlalso registered for Biome Brushland
+template BlockHenge.tmlalso registered for Biome Chaparral
+template BlockHenge.tmlalso registered for Biome Mystic Grove
+template BlockHenge.tmlalso registered for Biome Highland
+template BlockHenge.tmlalso registered for Biome Boreal Forest
+template BlockHenge.tmlalso registered for Biome Wetland
+template BlockHenge.tmlalso registered for Biome Spruce Woods
+template BlockHenge.tmlalso registered for Biome Majestic Meadow
+template BlockHenge.tmlalso registered for Biome Savanna Plateau
+template BlockHenge.tmlalso registered for Biome Lavender Fields
+template BlockHenge.tmlalso registered for Biome Extreme Hills
+template BlockHenge.tmlalso registered for Biome Hell
+template BlockHenge.tmlalso registered for Biome Outback
+template BlockHenge.tmlalso registered for Biome Seasonal Forest
+template BlockHenge.tmlalso registered for Biome Heathland
+template BlockHenge.tmlalso registered for Biome Swampland
+template BlockHenge.tmlalso registered for Biome Quagmire
+template BlockHenge.tmlalso registered for Biome Birch Forest
+template BlockHenge.tmlalso registered for Biome Meadow
+template BlockHenge.tmlalso registered for Biome Redwood Forest
+template BlockHenge.tmlalso registered for Biome Jade Cliffs
+template BlockHenge.tmlalso registered for Biome Sacred Springs
+Successfully loaded template BlockHenge.tml with weight 2.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template BrickHouse.tml has something special? Checking again later
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air,double_stone_slab,stone_slab] in template BrickHouse.tml has something special? Checking again later
+double_stone_slab mapped to net.minecraft.block.BlockStoneSlab@1b5ca771
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+brick_block mapped to net.minecraft.block.Block@4c389bd0
+template BrickHouse.tmlalso registered for Biome Mountain
+template BrickHouse.tmlalso registered for Biome Tundra
+template BrickHouse.tmlalso registered for Biome Thicket
+template BrickHouse.tmlalso registered for Biome Marsh
+template BrickHouse.tmlalso registered for Biome Temperate Rainforest
+template BrickHouse.tmlalso registered for Biome Bog
+template BrickHouse.tmlalso registered for Biome JungleHills
+template BrickHouse.tmlalso registered for Biome Lush Swamp
+template BrickHouse.tmlalso registered for Biome Tropical Rainforest
+template BrickHouse.tmlalso registered for Biome Pasture
+template BrickHouse.tmlalso registered for Biome Mesa
+template BrickHouse.tmlalso registered for Biome Cherry Blossom Grove
+template BrickHouse.tmlalso registered for Biome Deciduous Forest
+template BrickHouse.tmlalso registered for Biome Grove
+template BrickHouse.tmlalso registered for Biome Grassland
+template BrickHouse.tmlalso registered for Biome Timber
+template BrickHouse.tmlalso registered for Biome Coniferous Forest
+template BrickHouse.tmlalso registered for Biome Taiga
+template BrickHouse.tmlalso registered for Biome Wonderous Woods
+template BrickHouse.tmlalso registered for Biome Bamboo Forest
+template BrickHouse.tmlalso registered for Biome Forest
+template BrickHouse.tmlalso registered for Biome TaigaHills
+template BrickHouse.tmlalso registered for Biome Rainforest
+template BrickHouse.tmlalso registered for Biome ForestHills
+template BrickHouse.tmlalso registered for Biome Extreme Hills Edge
+template BrickHouse.tmlalso registered for Biome Jungle
+template BrickHouse.tmlalso registered for Biome Savanna
+template BrickHouse.tmlalso registered for Biome Fen
+template BrickHouse.tmlalso registered for Biome Woodland
+template BrickHouse.tmlalso registered for Biome Shield
+template BrickHouse.tmlalso registered for Biome Brushland
+template BrickHouse.tmlalso registered for Biome Chaparral
+template BrickHouse.tmlalso registered for Biome Mystic Grove
+template BrickHouse.tmlalso registered for Biome Highland
+template BrickHouse.tmlalso registered for Biome Boreal Forest
+template BrickHouse.tmlalso registered for Biome Wetland
+template BrickHouse.tmlalso registered for Biome Spruce Woods
+template BrickHouse.tmlalso registered for Biome Majestic Meadow
+template BrickHouse.tmlalso registered for Biome Savanna Plateau
+template BrickHouse.tmlalso registered for Biome Lavender Fields
+template BrickHouse.tmlalso registered for Biome Extreme Hills
+template BrickHouse.tmlalso registered for Biome Hell
+template BrickHouse.tmlalso registered for Biome Outback
+template BrickHouse.tmlalso registered for Biome Seasonal Forest
+template BrickHouse.tmlalso registered for Biome Heathland
+template BrickHouse.tmlalso registered for Biome Swampland
+template BrickHouse.tmlalso registered for Biome Quagmire
+template BrickHouse.tmlalso registered for Biome Birch Forest
+template BrickHouse.tmlalso registered for Biome Meadow
+template BrickHouse.tmlalso registered for Biome Redwood Forest
+template BrickHouse.tmlalso registered for Biome Jade Cliffs
+template BrickHouse.tmlalso registered for Biome Sacred Springs
+Successfully loaded template BrickHouse.tml with weight 2.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template CastleModified.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+farmland mapped to net.minecraft.block.BlockFarmland@193e6be6
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+netherrack mapped to net.minecraft.block.BlockNetherrack@2bc69070
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+tallgrass mapped to net.minecraft.block.BlockTallGrass@64c6295a
+double_stone_slab mapped to net.minecraft.block.BlockStoneSlab@1b5ca771
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+chest mapped to net.minecraft.block.BlockChest@67eae247
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+red_flower mapped to net.minecraft.block.BlockFlower@eea69fa
+yellow_flower mapped to net.minecraft.block.BlockFlower@4d7c1b64
+pumpkin mapped to net.minecraft.block.BlockPumpkin@33b67920
+bookshelf mapped to net.minecraft.block.BlockBookshelf@23251b3e
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+lava mapped to net.minecraft.block.BlockStaticLiquid@7f7b5756
+chest mapped to net.minecraft.block.BlockChest@67eae247
+fire mapped to net.minecraft.block.BlockFire@34322abb
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+brown_mushroom mapped to net.minecraft.block.BlockMushroom@54aee8af
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+glowstone mapped to net.minecraft.block.BlockGlowstone@28d7e661
+template CastleModified.tmlalso registered for Biome Mountain
+template CastleModified.tmlalso registered for Biome Tundra
+template CastleModified.tmlalso registered for Biome Thicket
+template CastleModified.tmlalso registered for Biome Marsh
+template CastleModified.tmlalso registered for Biome Temperate Rainforest
+template CastleModified.tmlalso registered for Biome Bog
+template CastleModified.tmlalso registered for Biome JungleHills
+template CastleModified.tmlalso registered for Biome Lush Swamp
+template CastleModified.tmlalso registered for Biome Tropical Rainforest
+template CastleModified.tmlalso registered for Biome Pasture
+template CastleModified.tmlalso registered for Biome Mesa
+template CastleModified.tmlalso registered for Biome Cherry Blossom Grove
+template CastleModified.tmlalso registered for Biome Deciduous Forest
+template CastleModified.tmlalso registered for Biome Grove
+template CastleModified.tmlalso registered for Biome Grassland
+template CastleModified.tmlalso registered for Biome Timber
+template CastleModified.tmlalso registered for Biome Coniferous Forest
+template CastleModified.tmlalso registered for Biome Taiga
+template CastleModified.tmlalso registered for Biome Wonderous Woods
+template CastleModified.tmlalso registered for Biome Bamboo Forest
+template CastleModified.tmlalso registered for Biome Forest
+template CastleModified.tmlalso registered for Biome TaigaHills
+template CastleModified.tmlalso registered for Biome Rainforest
+template CastleModified.tmlalso registered for Biome ForestHills
+template CastleModified.tmlalso registered for Biome Extreme Hills Edge
+template CastleModified.tmlalso registered for Biome Jungle
+template CastleModified.tmlalso registered for Biome Savanna
+template CastleModified.tmlalso registered for Biome Fen
+template CastleModified.tmlalso registered for Biome Woodland
+template CastleModified.tmlalso registered for Biome Shield
+template CastleModified.tmlalso registered for Biome Brushland
+template CastleModified.tmlalso registered for Biome Chaparral
+template CastleModified.tmlalso registered for Biome Mystic Grove
+template CastleModified.tmlalso registered for Biome Highland
+template CastleModified.tmlalso registered for Biome Boreal Forest
+template CastleModified.tmlalso registered for Biome Wetland
+template CastleModified.tmlalso registered for Biome Spruce Woods
+template CastleModified.tmlalso registered for Biome Majestic Meadow
+template CastleModified.tmlalso registered for Biome Savanna Plateau
+template CastleModified.tmlalso registered for Biome Lavender Fields
+template CastleModified.tmlalso registered for Biome Extreme Hills
+template CastleModified.tmlalso registered for Biome Hell
+template CastleModified.tmlalso registered for Biome Outback
+template CastleModified.tmlalso registered for Biome Seasonal Forest
+template CastleModified.tmlalso registered for Biome Heathland
+template CastleModified.tmlalso registered for Biome Swampland
+template CastleModified.tmlalso registered for Biome Quagmire
+template CastleModified.tmlalso registered for Biome Birch Forest
+template CastleModified.tmlalso registered for Biome Meadow
+template CastleModified.tmlalso registered for Biome Redwood Forest
+template CastleModified.tmlalso registered for Biome Jade Cliffs
+template CastleModified.tmlalso registered for Biome Sacred Springs
+Successfully loaded template CastleModified.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template CastleModifiedRuined.tml has something special? Checking again later
+grass mapped to net.minecraft.block.BlockGrass@6289fe96
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+farmland mapped to net.minecraft.block.BlockFarmland@193e6be6
+water mapped to net.minecraft.block.BlockStaticLiquid@5a716968
+sandstone mapped to net.minecraft.block.BlockSandStone@11646b9d
+double_stone_slab mapped to net.minecraft.block.BlockStoneSlab@1b5ca771
+planks mapped to net.minecraft.block.BlockWood@3f537b34
+netherrack mapped to net.minecraft.block.BlockNetherrack@2bc69070
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+tallgrass mapped to net.minecraft.block.BlockTallGrass@64c6295a
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+wheat mapped to net.minecraft.block.BlockCrops@401eea7c
+yellow_flower mapped to net.minecraft.block.BlockFlower@4d7c1b64
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+red_flower mapped to net.minecraft.block.BlockFlower@eea69fa
+pumpkin mapped to net.minecraft.block.BlockPumpkin@33b67920
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+chest mapped to net.minecraft.block.BlockChest@67eae247
+fire mapped to net.minecraft.block.BlockFire@34322abb
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+stonebrick mapped to net.minecraft.block.BlockStoneBrick@11a8b0bd
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+stone_brick_stairs mapped to net.minecraft.block.BlockStairs@4718f92
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+oak_stairs mapped to net.minecraft.block.BlockStairs@55dee8d0
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+template CastleModifiedRuined.tmlalso registered for Biome Mountain
+template CastleModifiedRuined.tmlalso registered for Biome Tundra
+template CastleModifiedRuined.tmlalso registered for Biome Thicket
+template CastleModifiedRuined.tmlalso registered for Biome Marsh
+template CastleModifiedRuined.tmlalso registered for Biome Temperate Rainforest
+template CastleModifiedRuined.tmlalso registered for Biome Bog
+template CastleModifiedRuined.tmlalso registered for Biome JungleHills
+template CastleModifiedRuined.tmlalso registered for Biome Lush Swamp
+template CastleModifiedRuined.tmlalso registered for Biome Tropical Rainforest
+template CastleModifiedRuined.tmlalso registered for Biome Pasture
+template CastleModifiedRuined.tmlalso registered for Biome Mesa
+template CastleModifiedRuined.tmlalso registered for Biome Cherry Blossom Grove
+template CastleModifiedRuined.tmlalso registered for Biome Deciduous Forest
+template CastleModifiedRuined.tmlalso registered for Biome Grove
+template CastleModifiedRuined.tmlalso registered for Biome Grassland
+template CastleModifiedRuined.tmlalso registered for Biome Timber
+template CastleModifiedRuined.tmlalso registered for Biome Coniferous Forest
+template CastleModifiedRuined.tmlalso registered for Biome Taiga
+template CastleModifiedRuined.tmlalso registered for Biome Wonderous Woods
+template CastleModifiedRuined.tmlalso registered for Biome Bamboo Forest
+template CastleModifiedRuined.tmlalso registered for Biome Forest
+template CastleModifiedRuined.tmlalso registered for Biome TaigaHills
+template CastleModifiedRuined.tmlalso registered for Biome Rainforest
+template CastleModifiedRuined.tmlalso registered for Biome ForestHills
+template CastleModifiedRuined.tmlalso registered for Biome Extreme Hills Edge
+template CastleModifiedRuined.tmlalso registered for Biome Jungle
+template CastleModifiedRuined.tmlalso registered for Biome Savanna
+template CastleModifiedRuined.tmlalso registered for Biome Fen
+template CastleModifiedRuined.tmlalso registered for Biome Woodland
+template CastleModifiedRuined.tmlalso registered for Biome Shield
+template CastleModifiedRuined.tmlalso registered for Biome Brushland
+template CastleModifiedRuined.tmlalso registered for Biome Chaparral
+template CastleModifiedRuined.tmlalso registered for Biome Mystic Grove
+template CastleModifiedRuined.tmlalso registered for Biome Highland
+template CastleModifiedRuined.tmlalso registered for Biome Boreal Forest
+template CastleModifiedRuined.tmlalso registered for Biome Wetland
+template CastleModifiedRuined.tmlalso registered for Biome Spruce Woods
+template CastleModifiedRuined.tmlalso registered for Biome Majestic Meadow
+template CastleModifiedRuined.tmlalso registered for Biome Savanna Plateau
+template CastleModifiedRuined.tmlalso registered for Biome Lavender Fields
+template CastleModifiedRuined.tmlalso registered for Biome Extreme Hills
+template CastleModifiedRuined.tmlalso registered for Biome Hell
+template CastleModifiedRuined.tmlalso registered for Biome Outback
+template CastleModifiedRuined.tmlalso registered for Biome Seasonal Forest
+template CastleModifiedRuined.tmlalso registered for Biome Heathland
+template CastleModifiedRuined.tmlalso registered for Biome Swampland
+template CastleModifiedRuined.tmlalso registered for Biome Quagmire
+template CastleModifiedRuined.tmlalso registered for Biome Birch Forest
+template CastleModifiedRuined.tmlalso registered for Biome Meadow
+template CastleModifiedRuined.tmlalso registered for Biome Redwood Forest
+template CastleModifiedRuined.tmlalso registered for Biome Jade Cliffs
+template CastleModifiedRuined.tmlalso registered for Biome Sacred Springs
+Successfully loaded template CastleModifiedRuined.tml with weight 1.
+air mapped to neome Sacred Springs
+Successfully loaded template CastleModifiedRuined.tml with weight 1.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template GateUnderGlass.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template GateUnderGlass.tml has something special? Checking again later
+stone_slab mapped to net.minecraft.block.BlockStoneSlab@5ff4f9bf
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+mossy_cobblestone mapped to net.minecraft.block.Block@591f9578
+torch mapped to net.minecraft.block.BlockTorch@56076eaa
+flowing_lava mapped to net.minecraft.block.BlockDynamicLiquid@4bbf593b
+obsidian mapped to net.minecraft.block.BlockObsidian@ca2027f
+flowing_water mapped to net.minecraft.block.BlockDynamicLiquid@3a934cf4
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template GateUnderGlass.tml has something special? Checking again later
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [1,100,air] in template GateUnderGlass.tml has something special? Checking again later
+glass mapped to net.minecraft.block.BlockGlass@78a0bc79
+sand mapped to net.minecraft.block.BlockSand@a810524
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+template GateUnderGlass.tmlalso registered for Biome Mountain
+template GateUnderGlass.tmlalso registered for Biome Tundra
+template GateUnderGlass.tmlalso registered for Biome Thicket
+template GateUnderGlass.tmlalso registered for Biome Marsh
+template GateUnderGlass.tmlalso registered for Biome Temperate Rainforest
+template GateUnderGlass.tmlalso registered for Biome Bog
+template GateUnderGlass.tmlalso registered for Biome JungleHills
+template GateUnderGlass.tmlalso registered for Biome Lush Swamp
+template GateUnderGlass.tmlalso registered for Biome Tropical Rainforest
+template GateUnderGlass.tmlalso registered for Biome Pasture
+template GateUnderGlass.tmlalso registered for Biome Mesa
+template GateUnderGlass.tmlalso registered for Biome Cherry Blossom Grove
+template GateUnderGlass.tmlalso registered for Biome Deciduous Forest
+template GateUnderGlass.tmlalso registered for Biome Grove
+template GateUnderGlass.tmlalso registered for Biome Grassland
+template GateUnderGlass.tmlalso registered for Biome Timber
+template GateUnderGlass.tmlalso registered for Biome Coniferous Forest
+template GateUnderGlass.tmlalso registered for Biome Taiga
+template GateUnderGlass.tmlalso registered for Biome Wonderous Woods
+template GateUnderGlass.tmlalso registered for Biome Bamboo Forest
+template GateUnderGlass.tmlalso registered for Biome Forest
+template GateUnderGlass.tmlalso registered for Biome TaigaHills
+template GateUnderGlass.tmlalso registered for Biome Rainforest
+template GateUnderGlass.tmlalso registered for Biome ForestHills
+template GateUnderGlass.tmlalso registered for Biome Extreme Hills Edge
+template GateUnderGlass.tmlalso registered for Biome Jungle
+template GateUnderGlass.tmlalso registered for Biome Savanna
+template GateUnderGlass.tmlalso registered for Biome Fen
+template GateUnderGlass.tmlalso registered for Biome Woodland
+template GateUnderGlass.tmlalso registered for Biome Shield
+template GateUnderGlass.tmlalso registered for Biome Brushland
+template GateUnderGlass.tmlalso registered for Biome Chaparral
+template GateUnderGlass.tmlalso registered for Biome Mystic Grove
+template GateUnderGlass.tmlalso registered for Biome Highland
+template GateUnderGlass.tmlalso registered for Biome Boreal Forest
+template GateUnderGlass.tmlalso registered for Biome Wetland
+template GateUnderGlass.tmlalso registered for Biome Spruce Woods
+template GateUnderGlass.tmlalso registered for Biome Majestic Meadow
+template GateUnderGlass.tmlalso registered for Biome Savanna Plateau
+template GateUnderGlass.tmlalso registered for Biome Lavender Fields
+template GateUnderGlass.tmlalso registered for Biome Extreme Hills
+template GateUnderGlass.tmlalso registered for Biome Hell
+template GateUnderGlass.tmlalso registered for Biome Outback
+template GateUnderGlass.tmlalso registered for Biome Seasonal Forest
+template GateUnderGlass.tmlalso registered for Biome Heathland
+template GateUnderGlass.tmlalso registered for Biome Swampland
+template GateUnderGlass.tmlalso registered for Biome Quagmire
+template GateUnderGlass.tmlalso registered for Biome Birch Forest
+template GateUnderGlass.tmlalso registered for Biome Meadow
+template GateUnderGlass.tmlalso registered for Biome Redwood Forest
+template GateUnderGlass.tmlalso registered for Biome Jade Cliffs
+template GateUnderGlass.tmlalso registered for Biome Sacred Springs
+Successfully loaded template GateUnderGlass.tml with weight 4.
+air mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,air] in template Gazebo.tml has something special? Checking again later
+preserveBlock mapped to net.minecraft.block.BlockAir@fdcb254
+Rule [0,100,preserveBlock] in template Gazebo.tml has something special? Checking again later
+stone mapped to net.minecraft.block.BlockStone@34a7fc0
+dirt mapped to net.minecraft.block.BlockDirt@45b47a71
+cobblestone mapped to net.minecraft.block.Block@4bd2b477
+brick_block mapped to net.minecraft.block.Block@4c389bd0
+fence mapped to net.minecraft.block.BlockFence@5cc255b4
+snow_layer mapped to net.minecraft.block.BlockSnow@738dd1b3
+flowing_water mapped to net.minecraft.block.BlockDynamicLiquid@3a934cf4
+coal_ore mapped to net.minecraft.block.BlockOre@4642ebd
+flowing_lava mapped to net.minecraft.block.BlockDynamicLiquid@4bbf593b
+diamond_ore mapped to net.minecraft.block.BlockOre@3681e09f
+sand mapped to net.minecraft.block.BlockSand@a810524
+gravel mapped to net.minecraft.block.BlockGravel@4b7d6203
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+ladder mapped to net.minecraft.block.BlockLadder@423ac8e6
+template Gazebo.tmlalso registered for Biome Mountain
+template Gazebo.tmlalso registered for Biome Tundra
+template Gazebo.tmlalso registered for Biome Thicket
+template Gazebo.tmlalso registered for Biome Marsh
+template Gazebo.tmlalso registered for Biome Temperate Rainforest
+template Gazebo.tmlalso registered for Biome Bog
+template Gazebo.tmlalso registered for Biome JungleHills
+template Gazebo.tmlalso registered for Biome Lush Swamp
+template Gazebo.tmlalso registered for Biome Tropical Rainforest
+template Gazebo.tmlalso registered for Biome Pasture
+template Gazebo.tmlalso registered for Biome Mesa
+template Gazebo.tmlalso registered for Biome Cherry Blossom Grove
+template Gazebo.tmlalso registered for Biome Deciduous Forest
+template Gazebo.tmlalso registered for Biome Grove
+template Gazebo.tmlalso registered for Biome Grassland
+template Gazebo.tmlalso registered for Biome Timber
+template Gazebo.tmlalso registered for Biome Coniferous Forest
+template Gazebo.tmlalso registered for Biome Taiga
+template Gazebo.tmlalso registered for Biome Wonderous Woods
+template Gazebo.tmlalso registered for Biome Bamboo Forest
+template Gazebo.tmlalso registered for Biome Forest
+template Gazebo.tmlalso registered for Biome TaigaHills
+template Gazebo.tmlalso registered for Biome Rainforest
+template Gazebo.tmlalso registered for Biome ForestHills
+template Gazebo.tmlalso registered for Biome Extreme Hills Edge
+template Gazebo.tmlalso registered for Biome Jungle
+template Gazebo.tmlalso registered for Biome Savanna
+template Gazebo.tmlalso registered for Biome Fen
+template Gazebo.tmlalso registered for Biome Woodland
+template Gazebo.tmlalso registered for Biome Shield
+template Gazebo.tmlalso registered for Biome Brushland
+template Gazebo.tmlalso registered for Biome Chaparral
+template Gazebo.tmlalso registered for Biome Mystic Grove
+template Gazebo.tmlalso registered for Biome Highland
+template Gazebo.tmlalso registered for Biome Boreal Forest
+template Gazebo.tmlalso registered for Biome Wetland
+template Gazebo.tmlalso registered for Biome Spruce Woods
+template Gazebo.tmlalso registered for Biome Majestic Meadow
+template Gazebo.tmlalso registered for Biome Savanna Plateau
+template Gazebo.tmlalso registered for Biome Lavender Fields
+template Gazebo.tmlalso regi
