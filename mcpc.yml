@@ -76,8 +76,8 @@ world-settings:
     flowing-lava-decay: false
     despawn-immediate: true
     worldgen-BattleTowers-WorldGenHandler: true
-    worldgen-LotsOfFood-PDAWorldGen: true
     worldgen-ASRuins-RuinsWorldGenerator: true
+    worldgen-LotsOfFood-PDAWorldGen: true
 fake-players:
   do-login: false
 debug:
