@@ -75,8 +75,9 @@ world-settings:
     infinite-water-source: true
     flowing-lava-decay: false
     despawn-immediate: true
-    worldgen-ASRuins-RuinsWorldGenerator: true
     worldgen-BattleTowers-WorldGenHandler: true
+    worldgen-LotsOfFood-PDAWorldGen: true
+    worldgen-ASRuins-RuinsWorldGenerator: true
 fake-players:
   do-login: false
 debug:
